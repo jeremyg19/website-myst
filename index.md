@@ -6,8 +6,9 @@ subtitle: My name is Jeremy. I've done a variety of work that has centered on th
 ## Introduction
 
 Welcome to my new homepage. It is very much a work in progress but I hope to update it with links to the cool research I get to do, as well as past projects.
-I just recently started at the [Great Lakes at the Cooperative Institute of Great Lakes Research](https://ciglr.seas.umich.edu/) where I am excited to work on research focused on the Great Lakes.
-Before that I worked at Michigan Tech Research Institute for 9 years. 
+
+I just recently started at the [Great Lakes at the Cooperative Institute of Great Lakes Research](https://ciglr.seas.umich.edu/) where I am excited to work on research focused on the Great Lakes. Before that I worked at Michigan Tech Research Institute for 9 years. 
+
 ---
 
 ## Featured Projects
