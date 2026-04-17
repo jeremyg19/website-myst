@@ -20,9 +20,9 @@ project:
     - book/references.bib
   toc:
     - file: index.md
-    - title: Preface
-      children:
-        - file: book/preface.md
+#    - title: Preface
+#      children:
+#        - file: book/preface.md
     - title: Getting Started
       children:
         - file: book/part01/getting-started.md
