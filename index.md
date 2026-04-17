@@ -1,15 +1,17 @@
 ---
-title: Website Title
-subtitle: Subtitle of the book
+title: Home
+subtitle: My name is Jeremy. I work on geospatial sciences for the Great Lakes at the Cooperative Institute of Great Lakes Research
 ---
 
 ## Introduction
 
-Welcome to the official repository for _**Website Title**_. This repository contains all the code examples featured in the book.
+Welcome to my new homepage. It is very much a work in progress but I hope to update it with links to the cool research I get to do, as well as past projects.
 
 ---
 
 ## Featured Projects
+This area will be updated in the future. For now it has the default links provided by [Qiusheng Wu's tutorial](https://www.youtube.com/watch?v=wj0kAthmusA).
+Thanks [Qiusheng](https://github.com/giswqs) for all you amazing opensource contributions!
 
 ::::{grid} 2 2 4 4
 
